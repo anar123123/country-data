@@ -14,7 +14,7 @@ input[type='text']{
 button{
     cursor: pointer;
     padding: 10px;
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.486);
     color: white;
     border: none;
     border-radius: 5px;
